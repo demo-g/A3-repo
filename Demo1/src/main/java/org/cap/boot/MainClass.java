@@ -11,4 +11,8 @@ public class MainClass {
 	{
 		System.out.println("This is main class");
 	}
+	void secondMethod()
+	{
+		
+	}
 }
