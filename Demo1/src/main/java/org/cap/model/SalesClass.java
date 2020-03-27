@@ -10,11 +10,7 @@ public class SalesClass {
 
 	public void print()
 	{
-		int sum=0;
-		for(int i=0;i<arr.length;i++)
-		{
-			sum+=arr[i];
-			System.out.println(arr[i]);
-		}
+		for(int num:arr)
+				System.out.println(num);
 	}
 }
