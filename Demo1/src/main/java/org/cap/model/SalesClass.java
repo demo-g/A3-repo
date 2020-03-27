@@ -12,5 +12,7 @@ public class SalesClass {
 	{
 		for(int num:arr)
 				System.out.println(num);
+		System.out.println("This is developer 1");
+
 	}
 }
