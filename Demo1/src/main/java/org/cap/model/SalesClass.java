@@ -14,7 +14,7 @@ public class SalesClass {
 		for(int num:arr)
 				System.out.println(num);
 		System.out.println("This is developer 1");
-
+System.out.println("Enhanced for loop");
 =======
 		int sum=0;
 		for(int i=0;i<arr.length;i++)
@@ -23,6 +23,7 @@ public class SalesClass {
 			System.out.println(arr[i]);
 		}
 		System.out.println("THis is developer 2");
+		System.out.println("Normal For loop ");		
 >>>>>>> branch 'master' of https://github.com/demo-g/A3-repo.git
 	}
 }
