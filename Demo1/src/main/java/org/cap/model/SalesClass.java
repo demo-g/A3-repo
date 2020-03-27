@@ -10,7 +10,12 @@ public class SalesClass {
 
 	public void print()
 	{
-		for(int num:arr)
-				System.out.println(num);
+		int sum=0;
+		for(int i=0;i<arr.length;i++)
+		{
+			sum+=arr[i];
+			System.out.println(arr[i]);
+		}
+		System.out.println("THis is developer 2");
 	}
 }
