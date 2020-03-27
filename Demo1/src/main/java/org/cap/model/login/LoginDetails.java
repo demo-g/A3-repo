@@ -1,4 +1,4 @@
-package org.cap.login;
+package org.cap.model.login;
 
 public class LoginDetails {
 	private String uId;
