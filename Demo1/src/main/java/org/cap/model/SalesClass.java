@@ -15,10 +15,7 @@ public class SalesClass {
 				System.out.println(num);
 		System.out.println("This is developer 1");
 System.out.println("Enhanced for loop");
-<<<<<<< HEAD
 
-=======
->>>>>>> branch 'master' of https://github.com/demo-g/A3-repo.git
 		int sum=0;
 		for(int i=0;i<arr.length;i++)
 		{
